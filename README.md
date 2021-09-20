@@ -1,1 +1,1 @@
-# Quentin-s-Rice-Bootcamp-challenges
+# Quentin-Rice-Bootcamp-challenges
