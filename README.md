@@ -1,1 +1,1 @@
-# Quentin-Rice-Bootcamp-challenges
+# Quentin-Rice-Module_1_loan_challenge
